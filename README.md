@@ -61,7 +61,8 @@ ii) Create Schematic Cell View:
        + Make the connections by using fixed narrow wire key
        + Click Check and Save button
 
-![WhatsApp Image 2024-10-08 at 16 00 52_01c39360](https://github.com/user-attachments/assets/40a31b50-2d78-42d5-ac18-544c7c52d3a9)
+![Screenshot 2024-10-23 134901](https://github.com/user-attachments/assets/4fc98d47-a49d-4f93-a949-90567fe577ba)
+
 
 
 ### iii) Creating the Symbol for Schematic Cell View:
@@ -77,8 +78,8 @@ ii) Create Schematic Cell View:
    - Library Name and Cell Name must be same which you have used for schematic. Press OK
    - Check for the position of pin side.Prss OK
    - Edit for the shape by Create-Shape-Choose required options to edit.
+![Screenshot 2024-10-23 134927](https://github.com/user-attachments/assets/be2b6e70-f15b-4e68-8aa9-b06b937269ba)
 
-![WhatsApp Image 2024-10-08 at 16 00 46_26d7e3c5](https://github.com/user-attachments/assets/5a5a6614-6594-4a69-b526-b44e7b3c433f)
 
 ### iv) Creating the Test Cell View:
 - In the CIW window:
@@ -90,7 +91,8 @@ ii) Create Schematic Cell View:
    + Type: Schematic. Press OK.
 - Add the required components and make connections, similar to step ii.
 
-![WhatsApp Image 2024-10-08 at 16 00 45_548ac1ff](https://github.com/user-attachments/assets/439eead0-09f1-4ac0-831f-9a8c8e583062)
+![Screenshot 2024-10-23 140557](https://github.com/user-attachments/assets/c7a336a9-f2e5-4ab9-b15f-5d0067217554)
+
 
 ### Analog Simulation by SPECTRE:
 
@@ -105,16 +107,19 @@ ii) Create Schematic Cell View:
    - Execute Simulation -- Net list and Run
 
 
-![WhatsApp Image 2024-10-08 at 16 00 56_bae6e1af](https://github.com/user-attachments/assets/1cb32b56-7dce-42c3-bdb7-9302145bc9b7)
+![Screenshot 2024-10-23 135557](https://github.com/user-attachments/assets/63224bbd-bdf0-4240-99ed-43266b0c6fbf)
+
 
 ###  For Transient Analysis:
   - In the simulation setup, choose transient analysis.
   - Specify the time range for the analysis (start and stop time).
   - Run the simulation and observe the output waveforms for the D and Q signals.
 
-![WhatsApp Image 2024-10-08 at 16 00 53_7dad838d](https://github.com/user-attachments/assets/5c2fcd58-2100-4e8c-953e-e9cd3f1d7d99)
+![Screenshot 2024-10-23 135632](https://github.com/user-attachments/assets/7cb53a85-487b-4a4a-9752-c8fd424fc921)
 
-![WhatsApp Image 2024-10-08 at 16 00 55_07660460](https://github.com/user-attachments/assets/ec6081b4-15eb-4cd5-829b-cc71e55e1e79)
+
+![Screenshot 2024-10-23 140303](https://github.com/user-attachments/assets/474fcbd8-49a5-404a-a098-27cc46d34d99)
+
 
 
 ### Results:
